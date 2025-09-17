@@ -5,7 +5,7 @@ fun main(){
     println(sehir)
     var ulke = "Türkiye"
     println(ulke)
-    var telefon = "+90 552 830 71 77"
+    var telefon = "+90 123 789 12 11"
     println(telefon)
     var postaKodu = "161616"
     println(postaKodu)
